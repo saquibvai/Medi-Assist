@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73912942-dabc-42a9-8bf8-bba489082763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/ambulance/lab_test_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ambulance/search_ambulance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/migrations/0002_auto_20200716_1120.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/appointment/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor_appointment_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor_appointment_system/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor_appointment_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor_appointment_system/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/appointment/appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/appointment/appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/appointment/appointment_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/appointment/appointment_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/appointment/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/appointment/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/nav.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1edOO6f3U1Gcp0qbVCyvOhw0RIa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nazmul\Desktop\Dev\dr_care\src\doctor_appointment_system\templates\ambulance" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="doctor_appointment_system" type="Python.DjangoServer" factoryName="Django server">
+      <module name="doctor_appointment_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73912942-dabc-42a9-8bf8-bba489082763" name="Default Changelist" comment="" />
+      <created>1594647967385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594647967385</updated>
+      <workItem from="1594647972686" duration="5390000" />
+      <workItem from="1594823389746" duration="3122000" />
+      <workItem from="1594875555939" duration="2469000" />
+      <workItem from="1594879835289" duration="215000" />
+      <workItem from="1594913026985" duration="1721000" />
+      <workItem from="1595295714114" duration="597000" />
+      <workItem from="1595337953050" duration="544000" />
+      <workItem from="1597964291900" duration="2729000" />
+      <workItem from="1598018438577" duration="309000" />
+      <workItem from="1602513532003" duration="2847000" />
+      <workItem from="1602557378313" duration="7134000" />
+      <workItem from="1602566116337" duration="1315000" />
+      <workItem from="1602586113598" duration="2460000" />
+      <workItem from="1602600553223" duration="8245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="51" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594913133106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="51" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594913133106" />
+    <state x="413" y="61" key="FileChooserDialogImpl" timestamp="1598018747566">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598018747566" />
+    <state x="1807" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1602600576813">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1807" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1602600576813" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598018732606" />
+  </component>
+</project>

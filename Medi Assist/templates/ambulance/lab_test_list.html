@@ -1,0 +1,42 @@
+
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Patient List{% endblock %}
+
+{% block content %}
+
+
+
+
+    <section class="dentist-area section-padding-30-0">
+
+        <div class="container">
+
+            <table class="table">
+                <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Fee</th>
+                    <th scope="col">Image</th>
+
+
+                </tr>
+                </thead>
+                <tbody>
+
+                {% for test in lab_test %}
+                    <tr>
+
+                        <td>{{ test.name }}</td>
+                        <td> {{ test.fee }} TK</td>
+                        <td>   <img style="height: 50px; width: 70px" src="{{ test.image.url }}" alt=""></td>
+
+
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+    </section>
+{% endblock %}
